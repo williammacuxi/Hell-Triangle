@@ -16,3 +16,5 @@ To test the application:
 ```cmd
 npm test
 ```
+
+I chose javascript to make the challenge because it is a universal technology, which is used in any project that involves web, regardless of the main technology.
