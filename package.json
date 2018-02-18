@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+  "name": "hell-triangle",
+  "version": "1.0.0",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "William Alves",
+  "license": "ISC",
+  "description": ""
+}
